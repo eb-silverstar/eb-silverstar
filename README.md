@@ -1,5 +1,3 @@
-<h3>Software Engineer</h3>
-
 Hello! I'm a **software engineer**(mainly backend part) in IT company.
 
 <h3>Experience</h3>
