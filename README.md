@@ -16,11 +16,11 @@ Hello! I'm a **Software Engineer**(mainly backend part) in IT company.
 ![MyBatis](https://img.shields.io/badge/MyBatis-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)
 ![Documentum](https://img.shields.io/badge/Documentum-0085C0?style=flat-square&logo=Ripple&logoColor=white)
 
-![ApacheTomcat](https://img.shields.io/badge/ApacheTomcat-F8DC75?style=flat-square&logo=ApacheTomcat&logoColor=black)
-![JBoss](https://img.shields.io/badge/JBoss-000000?style=flat-square&logo=RubySinatra&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)
 ![CentOS](https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=CentOS&logoColor=white)
+![ApacheTomcat](https://img.shields.io/badge/ApacheTomcat-F8DC75?style=flat-square&logo=ApacheTomcat&logoColor=black)
+![JBoss](https://img.shields.io/badge/JBoss-000000?style=flat-square&logo=RubySinatra&logoColor=white)
 
 ![RESTAPI](https://img.shields.io/badge/RESTAPI-000000?style=flat-square&logo=Json&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=black)
